@@ -10,3 +10,5 @@
 📚 Estudante de Ciência da Computação
 </div>
 📌 Universidade Estadual de Santa Catarina - UDESC
+
+![snake gif](https://github.com/rafaklugee/rafaklugee/blob/output/github-contribution-grid-snake.svg)
