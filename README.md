@@ -10,3 +10,8 @@
 📚 Estudante de Ciência da Computação
 </div>
 📌 Universidade Estadual de Santa Catarina - UDESC
+
+![Snake animation](https://github.com/rafaklugee/rafaklugee/blob/output/github-contribution-grid-snakes.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaklugee&repo=rafaklugee&theme=react)](https://github.com/rafaklugee/rafaklugee)
+
