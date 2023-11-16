@@ -11,4 +11,6 @@
 </div>
 📌 Universidade Estadual de Santa Catarina - UDESC
 
-![snake gif](https://github.com/rafaklugee/rafaklugee/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaklugee/rafaklugee/blob/output/github-contribution-grid-snakes.svg)
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=rafaklugee&repo=rafaklugee&theme=react)](https://github.com/rafaklugee/rafaklugee)
