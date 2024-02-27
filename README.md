@@ -9,4 +9,4 @@
 
 📚 Estudante de Ciência da Computação
 </div>
-📌 Universidade Estadual de Santa Catarina - UDESC
+📌 Universidade Federal do Paraná - UFPR
