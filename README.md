@@ -10,6 +10,6 @@
 ![HASKELL](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-📚 Estudante de Ciência da Computação
+📚 Bacharelando em Ciência da Computação
 </div>
 📌 Universidade Federal do Paraná - UFPR
