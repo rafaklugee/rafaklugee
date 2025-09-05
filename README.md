@@ -55,7 +55,7 @@
 <br />
 
 <p align="center">
-  <sub>🤠 README remixado a partir da obra-prima de <a href="https://github.com/BrunnerLivio">BrunnerLivio</a> 🤠</sub>
+  <sub>🤠 README remixed from the masterpiece of <a href="https://github.com/BrunnerLivio">BrunnerLivio</a> 🤠</sub>
 </p>
 
 </div>
