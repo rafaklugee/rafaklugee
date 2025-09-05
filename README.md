@@ -3,7 +3,7 @@
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Rafa and I like programming" src="images/personal_note.svg" />
+  <img height="50" alt="I'm Rafa and I like programming" src="images/personal_note.svg" />
   <br />
   <br />
 
@@ -29,7 +29,7 @@
 
 
 <td align="center">
-<a href="https://www.youtube.com/watch?v=3YxaaGgTQYM&ab_channel=EvanescenceVEVO">
+<a href="https://www.youtube.com/watch?v=2Q3dGZPguSM&list=RD2Q3dGZPguSM&start_radio=1">
 <strong>Listen to cool music</strong>
 <br />
 <br />
@@ -53,27 +53,7 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rafaklugee)
 
-
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
-<!-- "margin-right: whatever;" -->
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-![](https://github-readme-stats.vercel.app/api?username=rafaklugee&show_icons=true&theme=transparent)
 
 ## Languages
 
