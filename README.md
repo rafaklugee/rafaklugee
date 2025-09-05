@@ -52,6 +52,11 @@
 <br />
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=rafaklugee)
+<br />
+
+<p align="center">
+  <sub>🤠 README remixado a partir da obra-prima de <a href="https://github.com/BrunnerLivio">BrunnerLivio</a> 🤠</sub>
+</p>
 
 </div>
 
@@ -71,5 +76,6 @@
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 📚 Bachelor's Degree in Computer Science
+</div>
 </div>
 📌 Federal University of Paraná - UFPR
